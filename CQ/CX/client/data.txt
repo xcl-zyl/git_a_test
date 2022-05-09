@@ -34,3 +34,7 @@ example message friend:
 {Attributes: 'person', userId: '', userIco: ''}
 {Attributes: 'people', groupId: '', groupIcon; ''}
 
+
+
+I make a changed.
+
