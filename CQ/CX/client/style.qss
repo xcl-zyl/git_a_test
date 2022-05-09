@@ -1,0 +1,182 @@
+#login_btn {
+    background-color: rgb(15, 96, 225);
+    border-radius: 60px;  
+    border: 2px groove rgb(12, 80, 189);
+    /* font: 9pt "AcadEref"; */
+    border-style: outset;
+}
+
+#login_btn:hover {
+    background-color: rgb(12, 80, 189);
+    border-radius: 60px;  
+    border: 2px groove rgb(15, 96, 225);
+    /* font: 9pt "AcadEref"; */
+    border-style: inset;
+}
+
+#user {
+    border-radius: 15px; 
+}
+
+#user:hover {
+    border: 1px solid rgb(15, 96, 225);
+    background-color: rgb(225, 231, 241);
+}
+
+#enroll_btn {
+    /* background-color: rgb(15, 96, 225); */
+    /* border-radius: 12px;  */
+    border: none;
+    color: rgb(15, 96, 225);
+    border-right:1px solid rgb(15, 96, 225);
+}
+
+#enroll_btn:hover {
+    /* background-color: rgb(12, 80, 189); */
+    color: rgb(12, 80, 189);
+}
+
+#find_btn {
+    /* background-color: rgb(15, 96, 225); */
+    /* border-radius: 12px;  */
+    border: none;
+    color: rgb(0, 0, 0);
+    border-right:1px solid rgb(0, 0, 0);
+}
+
+#find_btn:hover {
+    font-weight: bold;
+}
+
+#avatar {
+    border-image: url(./image/default.png);
+    /* background-image: url(./image/default.png); */
+    /* image: url(./image/default.png); */
+}
+
+#Widget {
+    border-image: url(./image/background.jpg);
+}
+
+#myself {
+    image-position: 0 0 0 0; 
+    image: url(./image/default.png);
+    text-align: left;
+    background-color: rgba(255, 255, 255, 1);
+}
+
+#myself_chosed {
+    image-position: 0 0 0 0; 
+    image: url(./image/default.png);
+    text-align: left;
+    background-color: rgb(35, 133, 213);
+}
+
+#my_send {
+    background-color: rgba(255, 255, 255, 1);
+}
+
+#topTitle {
+    background-color: rgba(12, 133, 246, 0.8);
+}
+
+#footer {
+    background-color: rgba(255, 255, 255, 1);
+    border: none;
+}
+
+#add_btn {
+    border: none;
+    color: aliceblue;
+    font: normal bold 40px "SimHei";
+}
+
+#checked_btn {
+    color: aqua;
+    border: none;
+    font-weight: bold;
+}
+
+#checked_cont {
+    color:rgb(132, 139, 139);
+    border: none;
+    font-weight: bold;
+    background-color: rgba(10, 252, 252, 0.3);
+    border-radius: 15px;
+}
+
+#unchecked_cont {
+    color:rgb(132, 139, 139);
+    border: none;
+    font-weight: bold;
+}
+
+#titleAvatar {
+    /* text-align: start; */
+    border: none;
+    font: normal bold 18px "SimHei";
+    color: aliceblue;
+    image-position: 0 0 0 0; 
+    image: url(./image/default.png);
+    /* padding-left: 30px; */
+    /* text-align: right; */
+}
+
+#titleAvatar:hover {
+    image-position: 0 0 0 0; 
+    image: url(./image/exit.png)
+}
+
+#titleText {
+    font: normal bold 18px "SimHei";
+    color: aliceblue;
+    border: none;
+}
+
+#search {
+    border-radius: 12px; 
+}
+
+#mail_input {
+    border-radius: 15px; 
+}
+
+#send {
+    border-radius: 15px; 
+    background-color: rgba(4, 253, 253, 0.2);
+}
+
+#tool_btn {
+    border-image: url(./image/tool.png);
+}
+
+#new_friend {
+    background-color: rgba(255, 255, 255, 1);
+    border: none;
+    text-align: left;
+    font-weight: bold;
+}
+
+#sure_create {
+    border-radius: 5px;
+    color: aliceblue;
+    font-weight: bold;
+    background-color: blue;
+}
+
+#sure_create:hover {
+    background-color: rgb(30, 30, 219);
+}
+/* #search::-ms-input-placeholder{
+    text-align: center;
+}
+#search::-webkit-input-placeholder{
+    text-align: center;
+}
+
+#user::-ms-input-placeholder{
+    text-align: center;
+}
+#user::-webkit-input-placeholder{
+    text-align: center;
+} */

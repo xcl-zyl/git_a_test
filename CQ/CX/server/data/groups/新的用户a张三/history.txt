@@ -1,0 +1,7 @@
+{"Attributes": "message", "time": "2022-05-08 15:11:47", "userId": "a", "friend": "\u65b0\u7684\u7528\u6237a\u5f20\u4e09", "mes_attrib": "people", "mes_content": "hello group"}
+{"Attributes": "message", "time": "2022-05-08 15:11:48", "userId": "\u65b0\u7684\u7528\u6237", "friend": "\u65b0\u7684\u7528\u6237a\u5f20\u4e09", "mes_attrib": "people", "mes_content": "\u5927\u5bb6\u597d"}
+{"Attributes": "message", "time": "2022-05-08 15:12:08", "userId": "\u5f20\u4e09", "friend": "\u65b0\u7684\u7528\u6237a\u5f20\u4e09", "mes_attrib": "people", "mes_content": "\u5927\u5bb6\u597d\u5440"}
+{"Attributes": "message", "time": "2022-05-08 15:12:16", "userId": "a", "friend": "\u65b0\u7684\u7528\u6237a\u5f20\u4e09", "mes_attrib": "people", "mes_content": "hi"}
+{"Attributes": "message", "time": "2022-05-08 15:12:25", "userId": "\u65b0\u7684\u7528\u6237", "friend": "\u65b0\u7684\u7528\u6237a\u5f20\u4e09", "mes_attrib": "people", "mes_content": "hello"}
+{"Attributes": "message", "time": "2022-05-08 15:12:35", "userId": "\u5f20\u4e09", "friend": "\u65b0\u7684\u7528\u6237a\u5f20\u4e09", "mes_attrib": "people", "mes_content": "\u54c8\u54c8\u54c8\u54c8"}
+{"Attributes": "message", "time": "2022-05-08 15:12:53", "userId": "a", "friend": "\u65b0\u7684\u7528\u6237a\u5f20\u4e09", "mes_attrib": "people", "mes_content": "\u554a\u554a\u554a"}
