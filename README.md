@@ -13,4 +13,6 @@ fifth: I make a changed.
 
 sixth: I make a new file in the branch.
 
-seventh: I merge the branches.
+seventh: I merge the branches(main merge a-test-branch).
+
+eighth: I will make main to last version.
