@@ -10,3 +10,7 @@ third: I will view commit log.
 forth: I will create a branch to test.
 
 fifth: I make a changed.
+
+sixth: I make a new file in the branch.
+
+seventh: I merge the branches.
